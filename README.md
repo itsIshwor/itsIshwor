@@ -2,9 +2,8 @@
 I'm Ishwor Upreti, a passionate software developer specializing in Java.
 
 ## 🚀 Technologies & Tools
-- 📝 Languages: Python, Java, JavaScript
-- 💻 Frameworks: React, Spring Boot
-- ☁️ Cloud: AWS, Azure
+- 📝 Languages: Java
+- 💻 Frameworks: Spring Boot
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=itsIshwor&theme=tokyonight&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale&show=prs_merged,prs_merged_percentage&rank_icon=github
