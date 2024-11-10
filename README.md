@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm [Your Name], a passionate software developer specializing in [technologies or interests].
+I'm Ishwor Upreti, a passionate software developer specializing in Java.
 
 ## 🚀 Technologies & Tools
 - 📝 Languages: Python, Java, JavaScript
